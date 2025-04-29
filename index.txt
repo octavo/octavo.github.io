@@ -35,5 +35,5 @@ In the last 30 days (Apr-3) your computers have contributed 41,959.65 hours of p
 https://boinc.berkeley.edu/teams/team_display.php?teamid=4651
 
 Snailmail at VHS Østerbrogade 226 st mbe 2100 Kbh Ø DK.
-Cybermail dugd@duck.com to get on the osm.org map.
+Cybermail dugd@duck.com to get on the map.
 Speak Greek/English with https://gist.githubusercontent.com/octavo/c978a8b7c266d162425b3cfd11a36568/raw/b96d55756729c89314e7ab1d42980cf81e8c22e6/phrasebook.txt
